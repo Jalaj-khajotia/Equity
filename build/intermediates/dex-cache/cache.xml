@@ -1,0 +1,1382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\be2d792552cdf4de141cec7ee8700499510257a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_f696fa647b9d3ab5750d9f26282cf43a78d7eca4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.7.2\84ffa765dd258dbab8695963c41308b054f3a1cb\jackson-databind-2.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="84ffa765dd258dbab8695963c41308b054f3a1cb">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\jackson-databind-2.7.2_9278d8d8e01dc40d0e0f13608c6c227aae20fd4d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\ff49aa32bcaa9caf7dad02ebeb73630c3e359eb5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bbded8fa779bbe1097a9fbce22de5ccffb20bd60">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_c5fba4304016044285340ad6a253658c89268cef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6293c363dcab8f1ad5abf3c0332dbbff372a75d3">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8421b8c1596743583c0368751cf3d76f0c35265c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\adc2c412d48b21b8f0fc43517757e79f23fab998\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7ce552453962f4f725f7c206725c4c5b32f1d6c0">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_ae7dec43901886788456908d4f9e81b72026c87f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\b5a143d9e9129da121fd6915d3a7881ae2cf7eaf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_12eba0df517b6e0bc6cbe9bd05fd5f125446215b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\4426c1c3e8f4891c89b0a97a961a639b8e3f8b9e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1dfef62219fda6d848b8a24dad7318ea52cd476d">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_7e1e508c4be29b37dcb23a2c7caec16ceabea0b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\a6b35d8f251ded5e8dcc1ac49e0cd47c4b02e19c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="589f444b075f47c43c78d6d7c46198b34ce4c1b6">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_f20d7f215963dc6f29715073f89ce8ce5544d710.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.7.2\84ffa765dd258dbab8695963c41308b054f3a1cb\jackson-databind-2.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="84ffa765dd258dbab8695963c41308b054f3a1cb">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\jackson-databind-2.7.2_9278d8d8e01dc40d0e0f13608c6c227aae20fd4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\0a7bfc2102a8c1e70c0e8b8496d5943950d765d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="611fe78f6c12c8a0deeb2ad8dea4a5a247570339">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_118adcb0bc9222daf862c4cf47158e16bdcb5e57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\ff49aa32bcaa9caf7dad02ebeb73630c3e359eb5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bbded8fa779bbe1097a9fbce22de5ccffb20bd60">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_c5fba4304016044285340ad6a253658c89268cef.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\1091b9362e09989f85de25785497c899dfe3409d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1ac97d7aa6a93902b6b0471fabf6525970d21f56">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_8a12b0a7bd7255375998c22049b78e8cc066be99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\4426c1c3e8f4891c89b0a97a961a639b8e3f8b9e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1dfef62219fda6d848b8a24dad7318ea52cd476d">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_7e1e508c4be29b37dcb23a2c7caec16ceabea0b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\b5a143d9e9129da121fd6915d3a7881ae2cf7eaf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_12eba0df517b6e0bc6cbe9bd05fd5f125446215b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\0a7bfc2102a8c1e70c0e8b8496d5943950d765d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="611fe78f6c12c8a0deeb2ad8dea4a5a247570339">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_118adcb0bc9222daf862c4cf47158e16bdcb5e57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\2c32941f76158f20506a89383ae005edc7a803f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_825dab09097e3808e0207b28ce3501445d3f889b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\774e2604dd8e20966dfa37948d3235b13a64b1f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="76f1e5943cb1fc1a841880ed72af680cba8a046c">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_f4b6c5dc6178021bc3e32bbcd46a5d5890dba156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\2c32941f76158f20506a89383ae005edc7a803f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_825dab09097e3808e0207b28ce3501445d3f889b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.7.0\19f42c154ffc689f40a77613bc32caeb17d744e3\jackson-annotations-2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="19f42c154ffc689f40a77613bc32caeb17d744e3">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.7.0_d86d4e588515bfab268db502869f59329c8da133.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\b5b5503a26fbde8ea5d7406c139c4af4f1f22ce0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2fa4bed8a1213a783ee394e58924fdc1aedc298a">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_8c88acaed57c32a0b619a8514dbaa6e3098d0cc3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\a6b35d8f251ded5e8dcc1ac49e0cd47c4b02e19c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="589f444b075f47c43c78d6d7c46198b34ce4c1b6">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_f20d7f215963dc6f29715073f89ce8ce5544d710\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\774e2604dd8e20966dfa37948d3235b13a64b1f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="76f1e5943cb1fc1a841880ed72af680cba8a046c">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_f4b6c5dc6178021bc3e32bbcd46a5d5890dba156\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\d14ab8d65ec1f020ebc298033592e813f1875d27\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="20771821f96ac4854553c9b6d10a3937909f40a4">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_1fd1233a86bed08eac89677622d570b5d1a6b52d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.7.0\19f42c154ffc689f40a77613bc32caeb17d744e3\jackson-annotations-2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="19f42c154ffc689f40a77613bc32caeb17d744e3">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\jackson-annotations-2.7.0_d86d4e588515bfab268db502869f59329c8da133\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-jackson\2.2.0\a8565d80d994f312b4f146de4d75f7626416a1f0\converter-jackson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a8565d80d994f312b4f146de4d75f7626416a1f0">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\converter-jackson-2.2.0_cf5a368b8fd0b7109e97b02a882d5d817673360f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\d14ab8d65ec1f020ebc298033592e813f1875d27\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="20771821f96ac4854553c9b6d10a3937909f40a4">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_1fd1233a86bed08eac89677622d570b5d1a6b52d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\bced5f941ef280c6d9609f378bf595a08696f939\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="32054268e6c9fdff0c9c5deafafd0bd105120fb6">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_edd3146944890828efefe8de0a7539ab5593f3bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\constraint-layout-solver-1.0.2_597e01e73f78fb1b84629533c38f1386b8f29e0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\7eb3a0776d58acd3bb951d312fa30c5b312cab77\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c147bfc12797852c00de33231b3d63b0b6f49375">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_aef7c0c7201fd8bf177ee2b82bee200794dddb07.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\b0b0d9f082bc8cc17b1b1c3f2788e0937cd59f83\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b70c5ad05857b8b3b2458777e1b489a96d82f05">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_9b6c8dc3a69abc9b4ed48f4424919ab2d11eeab8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\254947b6b8d32fc51e0f141d81c875699b12993f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cc1683c11baff90e41b9a6bd2d0861a35b2c5735">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_3cd726bb0ddd5c0b38d546176874bd315c81c55a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\41157a32efc36bbe98f81dea56bcd6ce7b51bccf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="652f51abc06a99243ca9399c13af2c6c0769c277">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_5691d139954dbab48694a16b144c7c6391fea292.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\d2c2b6a29f430e40837fb2b360a1f07e37e1ce97\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_82803f3e3b9717b43092ad55cbdf9d0381997931\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\7eb3a0776d58acd3bb951d312fa30c5b312cab77\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c147bfc12797852c00de33231b3d63b0b6f49375">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_aef7c0c7201fd8bf177ee2b82bee200794dddb07\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\bced5f941ef280c6d9609f378bf595a08696f939\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="32054268e6c9fdff0c9c5deafafd0bd105120fb6">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_edd3146944890828efefe8de0a7539ab5593f3bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_597e01e73f78fb1b84629533c38f1386b8f29e0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\b2be42ec07cdbd10ee9e2c8420edf977135c58bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0dc1af4997434691ade16df4be64d49d1bd1fef5">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_dd2fa0f45f7df514fb8361bfcebbf9974ed466a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\b0b0d9f082bc8cc17b1b1c3f2788e0937cd59f83\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b70c5ad05857b8b3b2458777e1b489a96d82f05">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_9b6c8dc3a69abc9b4ed48f4424919ab2d11eeab8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\d2c2b6a29f430e40837fb2b360a1f07e37e1ce97\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_82803f3e3b9717b43092ad55cbdf9d0381997931.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\1091b9362e09989f85de25785497c899dfe3409d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1ac97d7aa6a93902b6b0471fabf6525970d21f56">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_8a12b0a7bd7255375998c22049b78e8cc066be99.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.7.2\8b8310381b690e317f5f0574e9b2dd7034778b4c\jackson-core-2.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8b8310381b690e317f5f0574e9b2dd7034778b4c">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\jackson-core-2.7.2_f00ff1e3cb2b50fb39934041a1ed50004c1a1944\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\f2e6ca8f50d1f183f84eaa1c049f5aeda56872c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_84f3d62776bdd64dc943ecdcbfd43989a903b11d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\b21c01a631875ad5d8fc964ff7d3e14ab5220161\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_c6bfd50c9ec224abd14c0ea1f792b152cc4c3ec4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\b21c01a631875ad5d8fc964ff7d3e14ab5220161\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_c6bfd50c9ec224abd14c0ea1f792b152cc4c3ec4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\b2be42ec07cdbd10ee9e2c8420edf977135c58bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0dc1af4997434691ade16df4be64d49d1bd1fef5">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_dd2fa0f45f7df514fb8361bfcebbf9974ed466a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\retrofit-2.2.0_f646bda4ae4eeba8863516387f72f70086a21651.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\254947b6b8d32fc51e0f141d81c875699b12993f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cc1683c11baff90e41b9a6bd2d0861a35b2c5735">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_3cd726bb0ddd5c0b38d546176874bd315c81c55a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\be2d792552cdf4de141cec7ee8700499510257a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_f696fa647b9d3ab5750d9f26282cf43a78d7eca4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.7.2\8b8310381b690e317f5f0574e9b2dd7034778b4c\jackson-core-2.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8b8310381b690e317f5f0574e9b2dd7034778b4c">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\jackson-core-2.7.2_f00ff1e3cb2b50fb39934041a1ed50004c1a1944.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\f2e6ca8f50d1f183f84eaa1c049f5aeda56872c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_84f3d62776bdd64dc943ecdcbfd43989a903b11d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\retrofit-2.2.0_f646bda4ae4eeba8863516387f72f70086a21651\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\adc2c412d48b21b8f0fc43517757e79f23fab998\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7ce552453962f4f725f7c206725c4c5b32f1d6c0">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_ae7dec43901886788456908d4f9e81b72026c87f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\f18135d9d731a885efc49be14f1e258db936ce33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cb238c479cbda3db7cef9a99c11e5fd4851445fe">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_e61d71794c87cb512afe29be9565acd6baae07b8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\6df2c5160a2dd885ab9d0636e4ebb2ddb99fbb8c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ae475f56eae94a6614db527474af493d0a421271">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_12a859f60065f7d3377eba10de23e26258a3cc70\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\39fdc0bc17b7a0f51e1193783755efbbb7574266\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_fb3fd57719b210cbe356249a68976407aefb77b9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\56798c75151a845895a5019becc99f5f625eb56c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_8a75b3f1b09126dd034348099d83bd587f68df08\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\6df2c5160a2dd885ab9d0636e4ebb2ddb99fbb8c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ae475f56eae94a6614db527474af493d0a421271">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_12a859f60065f7d3377eba10de23e26258a3cc70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\af2361c6c5c333d16da0050ddd84faf9626f93f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b4fa53b1dbc43a65e9cbcbfe25f4abc47264e78c">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_35ff1cbdc61d6f8d056d6eefc44d19570eafae40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\d745117adc0976f056a62a182db650fdfd49b361\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_a8c33125355694da8da6aade7a1681bb21607bcb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\af2361c6c5c333d16da0050ddd84faf9626f93f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b4fa53b1dbc43a65e9cbcbfe25f4abc47264e78c">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_35ff1cbdc61d6f8d056d6eefc44d19570eafae40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\09d317e43c2bc9680dc719e2df12dab4c23dd3f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7057b89327260d70337f4913f933c78bb56ecd69">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_1678f552c602c14ed290ddee77f9fbc7d64efb71\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\09d317e43c2bc9680dc719e2df12dab4c23dd3f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7057b89327260d70337f4913f933c78bb56ecd69">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_1678f552c602c14ed290ddee77f9fbc7d64efb71.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\39fdc0bc17b7a0f51e1193783755efbbb7574266\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_fb3fd57719b210cbe356249a68976407aefb77b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\f18135d9d731a885efc49be14f1e258db936ce33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cb238c479cbda3db7cef9a99c11e5fd4851445fe">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_e61d71794c87cb512afe29be9565acd6baae07b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\41157a32efc36bbe98f81dea56bcd6ce7b51bccf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="652f51abc06a99243ca9399c13af2c6c0769c277">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_5691d139954dbab48694a16b144c7c6391fea292\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\56798c75151a845895a5019becc99f5f625eb56c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_8a75b3f1b09126dd034348099d83bd587f68df08.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\27ce597c8ef175fa1d9aef2960412f067b7c2cb7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e00b71dcf2fbecaf59b0d487d11839522dd7863d">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_59320b0013ad12ee727a5b4406f4c5e15ade17fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\8f0eda59ec421c65df8e166e1663bbf3edd93dc7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3e607ca6e04e85741fa979402b37eb552b811641">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_1bb08ba0f962c302df4615b856cb47a35ffe5270.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\86163cf98977ee0d293b5984b88f674ca4ae2d50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4ba7399a1a4f5c998b5ce4f6bf33a2e8347820c">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_d9e30f250620260a9f88840b3271eac5507cd76d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\8f0eda59ec421c65df8e166e1663bbf3edd93dc7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3e607ca6e04e85741fa979402b37eb552b811641">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_1bb08ba0f962c302df4615b856cb47a35ffe5270\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\17353108dc38f8b646da4157f99c4c2554eb3c92\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="54511008bf7d1aabd871d8d3a26781b3f2bd9617">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_fbe9c25f5686d412ce30029c0d698455db83f7f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\17353108dc38f8b646da4157f99c4c2554eb3c92\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="54511008bf7d1aabd871d8d3a26781b3f2bd9617">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_fbe9c25f5686d412ce30029c0d698455db83f7f2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\b5b5503a26fbde8ea5d7406c139c4af4f1f22ce0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2fa4bed8a1213a783ee394e58924fdc1aedc298a">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_8c88acaed57c32a0b619a8514dbaa6e3098d0cc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\70848f0fe47817d4ae4f16716b4cf1a22bfea66b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d94940ddde71cc57402c78b7d8c335d61958f486">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_c008b00d2b1a9095c8612d32187db442e36b9b4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\9bb3812df531f7a58091b7298b085ca23ad14f8e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c83d8acfa2967e42e7507803cd5bc34c898f7e8a">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_eca5ed873176f1c354be7759560079dcddd78dc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\70848f0fe47817d4ae4f16716b4cf1a22bfea66b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d94940ddde71cc57402c78b7d8c335d61958f486">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_c008b00d2b1a9095c8612d32187db442e36b9b4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\9bb3812df531f7a58091b7298b085ca23ad14f8e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c83d8acfa2967e42e7507803cd5bc34c898f7e8a">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_eca5ed873176f1c354be7759560079dcddd78dc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\27ce597c8ef175fa1d9aef2960412f067b7c2cb7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e00b71dcf2fbecaf59b0d487d11839522dd7863d">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_59320b0013ad12ee727a5b4406f4c5e15ade17fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\Projects\Old Trafford Hackathon\Equity\mapwize\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="85306d170b9020303636843264cbb3976ad7effc">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_e0b9e0ec6a5e96551be4b1afcdced5615d85c4f9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\bbeb1ea466af9add1040cc2861042e70c04f398e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="de123ff49c41c304ca4bc7eb5600d294984eaf5f">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_fac406529cbb54fcfef179e6076545ec5c5ec58f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\b410427347ebe16f8a1ae48d445337220150c363\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="363fb5cab8e3b60b403373e02b505ee3e47d1c91">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_9aae210b4e861fb0b488f0ad0ff5cc94c5b8d7f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_960d2f9b02eb5dbd15029cab990eb4e29e6b332d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\b96b116b450e839352031521571d49c5c6f0c40d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dc4ae725967274969c55950ec75a677847a73510">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_36b28d14b68a8b3b04c9e875eda24acc80cb7c5d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\b4f94a92755e69684448257a6a8b51365b4d6347\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c56893f4714457bd4ad9f511e2731eba53f7d751">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_6da647bc3e28a25489f8240d975de9410713772d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\bbeb1ea466af9add1040cc2861042e70c04f398e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="de123ff49c41c304ca4bc7eb5600d294984eaf5f">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_fac406529cbb54fcfef179e6076545ec5c5ec58f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Projects\Old Trafford Hackathon\Equity\mapwize\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="85306d170b9020303636843264cbb3976ad7effc">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\4\classes_e0b9e0ec6a5e96551be4b1afcdced5615d85c4f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\b4f94a92755e69684448257a6a8b51365b4d6347\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c56893f4714457bd4ad9f511e2731eba53f7d751">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_6da647bc3e28a25489f8240d975de9410713772d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\f34b149b3e38bf3477931dd5ecd36bee017aaca1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a73b24a82e860ae409181afee75925a04a03aed3">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_22cf7b697e9b1d166663891d2f05aa9b803a613f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\b4722286cd936b2b7e38974972a3fc2f8c4ce511\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d1fbaee850d07f3fee6af2085239f6d1cdbd6818">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_6e4df56e6f9eb09157093f87ebeb7dcb1d62d409\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\3412e6912fb9af0b2c0d7c4cac7da6e184b61284\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8e5edad98e4113971e515a8d9fe89d6f95235fa9">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_614077279cfc6f07191639b4e026e05be11bd687\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\9e719062394c624305753330f35567b9b7918031\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7f21fe29ab841f25f937bdb518862fc8d967a49d">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_b0f0cdc370fe2148c1f3fe28eb8e4f11d5d70933.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\3412e6912fb9af0b2c0d7c4cac7da6e184b61284\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8e5edad98e4113971e515a8d9fe89d6f95235fa9">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_614077279cfc6f07191639b4e026e05be11bd687.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\3e89555e7038ee8a96985bd3f296a60ee9e82c68\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_34f5c8e3a577b3343a1adcef3da75f8df955d2e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\623894bd0ca41c980fe77cc7d99a17af3e70472f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_d01c403801246cacffaace4f8741f10479373a99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\c293d3256aa055056abee916c977b41a46f02630\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ec1f195979cc7f1ec94779fa16f1b10aac8aceca">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_ba92a60d929fc0e18b99e47286aa21344171753a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\86163cf98977ee0d293b5984b88f674ca4ae2d50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4ba7399a1a4f5c998b5ce4f6bf33a2e8347820c">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_d9e30f250620260a9f88840b3271eac5507cd76d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\6c4d76109cc1d7974b99d11bdb6b669cea0da0e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4acacbab67243d9eb026ea759aefd401d070f3e">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_d1b8b8e79e44e10af42a07344dc71be282e9ccf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\okhttp-3.6.0_960d2f9b02eb5dbd15029cab990eb4e29e6b332d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\b4722286cd936b2b7e38974972a3fc2f8c4ce511\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d1fbaee850d07f3fee6af2085239f6d1cdbd6818">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_6e4df56e6f9eb09157093f87ebeb7dcb1d62d409.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\9e719062394c624305753330f35567b9b7918031\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7f21fe29ab841f25f937bdb518862fc8d967a49d">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_b0f0cdc370fe2148c1f3fe28eb8e4f11d5d70933\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\3e89555e7038ee8a96985bd3f296a60ee9e82c68\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_34f5c8e3a577b3343a1adcef3da75f8df955d2e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\6c4d76109cc1d7974b99d11bdb6b669cea0da0e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4acacbab67243d9eb026ea759aefd401d070f3e">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_d1b8b8e79e44e10af42a07344dc71be282e9ccf2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\00e5cf7058fdb4e44d7fa44a18c2c535809d19fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6d4384aa06b19d6aecdb87102784d5c0d2ea7532">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_88f22d51cc92fa92639cff043970635eb994e971\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\7f8eeda6c5d7a3ffac48a47fdffddd3705f4428e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7ae2522527c30bca3c57d1fa4617b01ff5e1de79">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_98a108af5755e0c03de2211f09e25f967c4468b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\b02b0f3c3b801c5fef0ea728698d892fd8c4d113\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fafc89bde9dd0da1ee66bf903c129fa9a656285b">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_86a00edfdf1ee9b505b394233f3969a75d02d14a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\c293d3256aa055056abee916c977b41a46f02630\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ec1f195979cc7f1ec94779fa16f1b10aac8aceca">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_ba92a60d929fc0e18b99e47286aa21344171753a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\9f8a95eeb3bb0d8aacc4ad1e4649c5480886cc00\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95955cf3055a3384ba1bfc30c6da82b92df74e0a">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_e9536f6fdac256c216a83627412953237b8c0e38\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\00e5cf7058fdb4e44d7fa44a18c2c535809d19fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6d4384aa06b19d6aecdb87102784d5c0d2ea7532">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_88f22d51cc92fa92639cff043970635eb994e971.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\d25b17678a87a5ec09d7a3c37f284bfca6c9e6bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c16e0d5f6efb0cdae98b38fe9a48d5236ea136d0">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_d29e270bbb1e9cdaa6e43e35e2111c267acbe07b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\3114699da5da1238d28cc8758f261a8fd23eaca3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3013ffee567202ddab82286ac45b28fcb1e7926a">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_7bb3893ce46fad66c59b089ec04383faaac4cacb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\7f8eeda6c5d7a3ffac48a47fdffddd3705f4428e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7ae2522527c30bca3c57d1fa4617b01ff5e1de79">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_98a108af5755e0c03de2211f09e25f967c4468b3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\d745117adc0976f056a62a182db650fdfd49b361\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_a8c33125355694da8da6aade7a1681bb21607bcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\9f8a95eeb3bb0d8aacc4ad1e4649c5480886cc00\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95955cf3055a3384ba1bfc30c6da82b92df74e0a">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_e9536f6fdac256c216a83627412953237b8c0e38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\f431a71d5819930be2c3cbc4a87879df57f5e983\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f70a8005cc2f6d37e4840f34901eeba3a41de5de">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_28f8a034786b35c2030bf06f60f32a62ff33168a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\d25b17678a87a5ec09d7a3c37f284bfca6c9e6bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c16e0d5f6efb0cdae98b38fe9a48d5236ea136d0">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_d29e270bbb1e9cdaa6e43e35e2111c267acbe07b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\3114699da5da1238d28cc8758f261a8fd23eaca3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3013ffee567202ddab82286ac45b28fcb1e7926a">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_7bb3893ce46fad66c59b089ec04383faaac4cacb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\066c0ecdfd0d0685716f1929605297be4c7f5a90\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="90095b555b72205db6f9b93aca3cb9978d1e3344">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_7fb223105b3588ee87bee7722d7a8aa02d76adf0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\e8e9b0bc7209fed128a9f13ea85fe3becb47c7a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0403a6c955272a546a25ae4c085f5fb728de3a42">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_a211a4f66cf753c1d3004a2edafaece8ce709937\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\f431a71d5819930be2c3cbc4a87879df57f5e983\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f70a8005cc2f6d37e4840f34901eeba3a41de5de">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_28f8a034786b35c2030bf06f60f32a62ff33168a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\066c0ecdfd0d0685716f1929605297be4c7f5a90\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="90095b555b72205db6f9b93aca3cb9978d1e3344">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_7fb223105b3588ee87bee7722d7a8aa02d76adf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\ebd961cd129cb17e50f9efded1fe8f61dd71fce8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3ab3ca52f409de1922c790aaca1be80dea626934">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_0ef8c40a19858ca2253894e34e0150a9d04d51ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\e8e9b0bc7209fed128a9f13ea85fe3becb47c7a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0403a6c955272a546a25ae4c085f5fb728de3a42">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_a211a4f66cf753c1d3004a2edafaece8ce709937.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\ebd961cd129cb17e50f9efded1fe8f61dd71fce8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3ab3ca52f409de1922c790aaca1be80dea626934">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_0ef8c40a19858ca2253894e34e0150a9d04d51ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\b02b0f3c3b801c5fef0ea728698d892fd8c4d113\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fafc89bde9dd0da1ee66bf903c129fa9a656285b">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_86a00edfdf1ee9b505b394233f3969a75d02d14a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\b96b116b450e839352031521571d49c5c6f0c40d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dc4ae725967274969c55950ec75a677847a73510">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_36b28d14b68a8b3b04c9e875eda24acc80cb7c5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_59b6dcad9391781ff22b4bf2bb6545b353e62917\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\d0ab897ed2cc10222b0f4b1594745e88b2a05b76\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d91e61885c6007d48feb57a2aa5c38421cae8b87">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_28498efde5ce05775259ab0a3d727d3527909e1e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\ce69e83e53c9ed3dde70d3431da07e0d5dab9145\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b1c4132dd2d386a819199b7e738c4d6e60897670">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_6a81b671ee1a853362f60b188dd2c72bedfe1c65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\8dd7ae3cb8354d8f54bca15c855d1c4ced818a99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b132c56e382e8b63e43a0ab0110ddb064fc624d8">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_ed2f7c72f9e7455ead100581398a45a9237b4866\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\0454784667d7052be8c19e5e982c0738a8f8e4bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_550ab9965385f9152a80ce8d8e985867200da597.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\d0ab897ed2cc10222b0f4b1594745e88b2a05b76\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d91e61885c6007d48feb57a2aa5c38421cae8b87">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_28498efde5ce05775259ab0a3d727d3527909e1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\8dd7ae3cb8354d8f54bca15c855d1c4ced818a99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b132c56e382e8b63e43a0ab0110ddb064fc624d8">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_ed2f7c72f9e7455ead100581398a45a9237b4866.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\ce69e83e53c9ed3dde70d3431da07e0d5dab9145\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b1c4132dd2d386a819199b7e738c4d6e60897670">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_6a81b671ee1a853362f60b188dd2c72bedfe1c65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\da9e4f233b745a23b07746fceaa67fd319b105f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_ed58a6328387af10d150f595930e5c2430362940.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\7d4f675ce014550e59f6cfaf21d9ced052a064aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_0ccd79d854dfb093367b074b4152188b2f19b7fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-jackson\2.2.0\a8565d80d994f312b4f146de4d75f7626416a1f0\converter-jackson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a8565d80d994f312b4f146de4d75f7626416a1f0">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\converter-jackson-2.2.0_cf5a368b8fd0b7109e97b02a882d5d817673360f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\0454784667d7052be8c19e5e982c0738a8f8e4bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_550ab9965385f9152a80ce8d8e985867200da597\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\bc0eb01f3220f6701bcfb941536718886d298d9c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8a572a0bd9ea324b099b1761670237bc1be8ba7b">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_de2d3c984258c676bd4c35ae32f02ce540609833.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\okio-1.11.0_391df16d83abeb202b6e1008aec19c823d5835d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\623894bd0ca41c980fe77cc7d99a17af3e70472f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_d01c403801246cacffaace4f8741f10479373a99\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\okio-1.11.0_391df16d83abeb202b6e1008aec19c823d5835d6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\bc0eb01f3220f6701bcfb941536718886d298d9c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8a572a0bd9ea324b099b1761670237bc1be8ba7b">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_de2d3c984258c676bd4c35ae32f02ce540609833\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\0cc92aadb43d14425c9bbda84d7a8fea39f5febe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da7ad43ce7be1d12ca7a76eff6355459f4db77d6">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_ebd11beabefd28f87ced7c5e7764bc2d5c826c3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\dc5032545b42ac26b713f8587e1b75d28849e288\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_e7fcf10da9743ca5e878e624282eb081caf2cce7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\dc5032545b42ac26b713f8587e1b75d28849e288\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_e7fcf10da9743ca5e878e624282eb081caf2cce7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\0cc92aadb43d14425c9bbda84d7a8fea39f5febe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da7ad43ce7be1d12ca7a76eff6355459f4db77d6">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_ebd11beabefd28f87ced7c5e7764bc2d5c826c3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\f22672b3fb54212b8a786df88d80339bfe8684ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5bd38c72db0a3b4140d38b7fb527e78e46126d79">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\classes_603e0451e3635d170a86686f4564febe08431855.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\b410427347ebe16f8a1ae48d445337220150c363\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="363fb5cab8e3b60b403373e02b505ee3e47d1c91">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_9aae210b4e861fb0b488f0ad0ff5cc94c5b8d7f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_ab67fd328f843e413e3f8c2b3ff0a5c0af101e04.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\support-annotations-26.0.0-alpha1_ab67fd328f843e413e3f8c2b3ff0a5c0af101e04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\da9e4f233b745a23b07746fceaa67fd319b105f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_ed58a6328387af10d150f595930e5c2430362940\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\7d4f675ce014550e59f6cfaf21d9ced052a064aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_0ccd79d854dfb093367b074b4152188b2f19b7fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahul Pillai\.android\build-cache\f22672b3fb54212b8a786df88d80339bfe8684ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5bd38c72db0a3b4140d38b7fb527e78e46126d79">
+        <dex dex="D:\Projects\Projects\Old Trafford Hackathon\Equity\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_603e0451e3635d170a86686f4564febe08431855\classes.dex" />
+    </item>
+
+</items>
